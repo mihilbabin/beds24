@@ -1,4 +1,4 @@
-# Beds24 [![Build Status](https://travis-ci.com/mihilbabin/booking_automation.svg?branch=master)](https://travis-ci.com/mihilbabin/booking_automation) [![Gem Version](https://badge.fury.io/rb/booking_automation.svg)](https://badge.fury.io/rb/booking_automation)
+# Beds24 [![Build Status](https://travis-ci.org/mihilbabin/beds24.svg?branch=master)](https://travis-ci.org/mihilbabin/beds24) [![Gem Version](https://badge.fury.io/rb/beds24.svg)](https://badge.fury.io/rb/beds24)
 
 This is a simple wrapper of [Beds24 API](https://beds24.com/api/index.html). It allows to fetch data related to properties and bookings created and filter that data as per API docs.
 
