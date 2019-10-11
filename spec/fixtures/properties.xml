@@ -1,0 +1,66 @@
+<properties>
+<property id="1" action="">
+<ownerId>1</ownerId>
+<propertyName>Name</propertyName>
+<email>test@email.com</email>
+<template1/>
+<template2/>
+<template3/>
+<template4/>
+<template5/>
+<template6/>
+<template7/>
+<template8/>
+<notifyUrl/>
+<currencyCode>CAD</currencyCode>
+<availableInAccount>0</availableInAccount>
+<roomLinking>2</roomLinking>
+<cardLinking>0</cardLinking>
+<channels>
+<channel name="agoda.com" channelCode="17">
+<propCode/>
+</channel>
+<channel name="airbnb.com" channelCode="10"/>
+<channel name="booking.com" channelCode="19">
+<propCode/>
+</channel>
+<channel name="expedia.com" channelCode="14">
+<propCode/>
+</channel>
+<channel name="homeaway.com ical" channelCode="40">
+<bookingRequests>0</bookingRequests>
+</channel>
+<channel name="tripadvisor.com" channelCode="20">
+<propCode/>
+</channel>
+</channels>
+<rooms>
+<room id="86352" action="">
+<roomName>1</roomName>
+<roomQty>1</roomQty>
+<roomMaxPeople>2</roomMaxPeople>
+<channels>
+<channel name="agoda.com" channelCode="17" inventory="0" price="0" booking="0">
+<roomCode/>
+</channel>
+<channel name="airbnb.com" channelCode="10" inventory="1" booking="1">
+<roomCode>
+https://www.airbnb.ca/calendar/ical/test.ics
+</roomCode>
+</channel>
+<channel name="booking.com" channelCode="19" inventory="0" price="0" booking="0">
+<roomCode/>
+<rateCode/>
+</channel>
+<channel name="expedia.com" channelCode="14" inventory="0" price="0" booking="0">
+<roomCode/>
+<rateCode/>
+</channel>
+<channel name="homeaway.com ical" channelCode="40" inventory="0" booking="0">
+<roomCode/>
+</channel>
+<channel name="tripadvisor.com" channelCode="20" synchronise="0"/>
+</channels>
+</room>
+</rooms>
+</property>

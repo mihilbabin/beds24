@@ -1,0 +1,75 @@
+<bookings datefrom="2019-08-01" dateto="2019-08-03">
+<booking id="13300894" action="">
+<masterId/>
+<propId>1</propId>
+<roomId>1</roomId>
+<unitId>1</unitId>
+<offerId>0</offerId>
+<status>Confirmed</status>
+<firstNight>2019-07-30</firstNight>
+<lastNight>2019-08-06</lastNight>
+<numNight>8</numNight>
+<numAdult>2</numAdult>
+<numChild>0</numChild>
+<rateDesc>
+Price 1980.00CAD Cleaning 60.00CAD Security 200.00CAD Expected Payout Amount 1978.80CAD
+</rateDesc>
+<price>2040.00</price>
+<deposit>0.00</deposit>
+<tax>0.00</tax>
+<commission>61.20</commission>
+<guestTitle/>
+<guestFirstName>John</guestFirstName>
+<guestName>Doe</guestName>
+<guestEmail>john@guest.airbnb.com</guestEmail>
+<guestPhone>11111</guestPhone>
+<guestMobile/>
+<guestFax/>
+<guestCompany/>
+<guestAddress/>
+<guestCity/>
+<guestState/>
+<guestPostcode/>
+<guestCountry>en</guestCountry>
+<guestCountry2/>
+<guestArrivaltime/>
+<guestComments/>
+<guestVoucher/>
+<guestCustomQuestion1/>
+<guestCustomQuestion2/>
+<guestCustomQuestion3/>
+<guestCustomQuestion4/>
+<guestCustomQuestion5/>
+<guestCustomQuestion6/>
+<guestCustomQuestion7/>
+<guestCustomQuestion8/>
+<guestCustomQuestion9/>
+<guestCustomQuestion10/>
+<hostComments/>
+<bookingTime>2019-07-22 23:25:38</bookingTime>
+<modifiedTime>2019-07-29 20:16:13</modifiedTime>
+<bookingIp/>
+<bookingReferer>Airbnb XML</bookingReferer>
+<originalReferer>Airbnb XML</originalReferer>
+<reference/>
+<lang>en</lang>
+<flagColor>007f7f</flagColor>
+<flagText>PAID AND VERIFIED ID (AIRBNB)</flagText>
+<statusCode>0</statusCode>
+<channelCode>46</channelCode>
+<channelRef>ASDF19929</channelRef>
+<invoice>
+<item id="19280333" type="8" action="">
+<description>
+1602 Tuesday, 30 July, 2019 - Wednesday, 7 August, 2019
+</description>
+<status/>
+<quantity>1</quantity>
+<itemPrice>1978.80</itemPrice>
+<vatRate>0.00</vatRate>
+</item>
+<currency/>
+<balance>1978.80</balance>
+</invoice>
+</booking>
+</bookings>
